@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\Homework 03\Homework 03\Source.cpp(135,16): warning C4018: '<': signed/unsigned 不相符
+F:\Homework 03\Homework 03\Source.cpp(176,50): warning C4018: '<': signed/unsigned 不相符
+F:\Homework 03\Homework 03\Source.cpp(236,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  Homework 03.vcxproj -> F:\Homework 03\Debug\Homework 03.exe
